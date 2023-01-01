@@ -1,4 +1,4 @@
-# Buoyant Data
+# About Us
 
 Buoyant Data specializes in analyzing [Databricks](https://databricks.com) and
 [AWS](https://aws.amazon.com) usage to provide cost optimization and
@@ -16,3 +16,5 @@ Our services include:
 * **Cost Monitoring**: Monitoring and alerting for data infrastructure to ensure that the data platform delivers value while staying within the budget.
 * **Data Architecture Consulting**: Guidance for Databricks and Delta Lake deployments to ensure the highest performance to cost ratio.
 * **Infrastructure Optimization**: Review of already deployed data infrastructure to squeeze faster queries and lower cost out your current platform.
+
+See [our website](https://www.buoyantdata.com) for more!.
